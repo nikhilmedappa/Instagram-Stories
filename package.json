@@ -1,0 +1,19 @@
+{
+  "name": "ms_instagram-stories_polaris_tep_mumbai_2020_2",
+  "version": "1.0.0",
+  "description": "# Learning competencies:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Instagram-stories_Polaris_Tep_Mumbai_2020_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Instagram-stories_Polaris_Tep_Mumbai_2020_2/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Instagram-stories_Polaris_Tep_Mumbai_2020_2#readme"
+}
